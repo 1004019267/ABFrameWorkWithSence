@@ -1,0 +1,3 @@
+*.cs linguist-language=C#
+*.exe linguist-language=C#
+*.apk linguist-language=C#

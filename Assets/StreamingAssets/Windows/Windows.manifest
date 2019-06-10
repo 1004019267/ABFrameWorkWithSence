@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 531443090
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: sences_1/materials.ab
+      Dependencies:
+        Dependency_0: sences_1/textures.ab
+    Info_1:
+      Name: sences_1/textures.ab
+      Dependencies: {}
+    Info_2:
+      Name: sences_1/sences_1.u3d
+      Dependencies: {}
+    Info_3:
+      Name: sences_1/prefabs.ab
+      Dependencies:
+        Dependency_0: sences_1/materials.ab

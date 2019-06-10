@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 2101549707
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e64aa9e4b32e630e05d50b5311412d5e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fe397485c3cec1106b49e9ff95e8f8a2
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/AB_Res/Sences_1/Materials/Floor.mat
+Dependencies:
+- D:/UnityAss/ABFrameWork/Assets/StreamingAssets/Windows/sences_1/textures.ab

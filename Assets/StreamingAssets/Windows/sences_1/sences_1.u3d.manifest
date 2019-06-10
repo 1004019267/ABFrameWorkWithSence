@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 3353472363
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9768e7ac403ef50eade981f050655276
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b50aa4b34c71190de6986338b71ead59
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 258
+  Script: {instanceID: 0}
+Assets:
+- Assets/AB_Res/Sences_1/New Scene.unity
+Dependencies: []

@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1255541833
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4e95bf8b31d200a961db83d3ee039522
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f19fbf085e00d23fbc8d6cf7b345590b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/AB_Res/Sences_1/Textures/New Folder/New Folder/New Folder/Floor.jpg
+- Assets/AB_Res/Sences_1/Textures/WhileFloor.jpg
+- Assets/AB_Res/Sences_1/Textures/unitychan_tile6.png
+- Assets/AB_Res/Sences_1/Textures/Path (Rocky).jpg
+- Assets/AB_Res/Sences_1/Textures/unitychan_tile3.png
+Dependencies: []
